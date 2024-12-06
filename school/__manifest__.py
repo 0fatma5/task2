@@ -18,9 +18,6 @@
         'views/high_school_view.xml',
 
     ],
-    'assets':
-        {
-            'web.assets_backend': ['school\static\src\css\property.css']
-        },
+
     'application': True
 }
